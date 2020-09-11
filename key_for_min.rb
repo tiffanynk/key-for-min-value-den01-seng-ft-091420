@@ -15,5 +15,5 @@ def key_for_min_value(name_hash)
     if lowest_value == value
     end
   end
-  puts key
+  puts item
 end
